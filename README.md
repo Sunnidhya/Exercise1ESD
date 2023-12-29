@@ -1,4 +1,4 @@
-# Shopping Website(only Frontend in React)
+# Shopping Website(Frontend in React)
 1) Landing page showing all Products
 2) Product List Page
 3) Product Details Page
